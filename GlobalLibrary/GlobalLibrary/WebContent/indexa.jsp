@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
@@ -50,7 +49,7 @@ hr {
   opacity:1;
 }
 body{
-	  background-image: url('index.jpg');
+	  background-image: url('booky.jpg');
 	  background-attachment: fixed;
 	  background-size: 100% 100%;
 	}
