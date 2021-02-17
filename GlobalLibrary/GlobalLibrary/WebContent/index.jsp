@@ -48,7 +48,7 @@ hr {
   opacity:1;
 }
 body{
-	  background-image: url('index.jpg');
+	  background-image: url('booky.jpg');
 	  background-attachment: fixed;
 	  background-size: 100% 100%;
 	}
@@ -62,7 +62,7 @@ body{
 
 <FORM NAME="form1" METHOD="POST" Action="indexa.jsp">
 <div class="container">
-<h1 class="registerbtn" style="margin-top:100px;" align =center>Welcome to Global Library</h1>
+<h1 class="registerbtn" style="margin-top:220px;" align =center>Welcome to Global Library</h1>
 
 <INPUT  class="registerbtn"  style =" background-color:red;margin-top:100px; margin-left:450px; width:30%" TYPE="SUBMIT" NAME="submit" VALUE="Librarian">
 </div>
@@ -72,7 +72,7 @@ body{
  <FORM NAME="form1" METHOD="POST" Action="indexu.jsp">
  <div class="container">
  
-        <INPUT class="registerbtn" style =" margin-left:450px; width:30%" TYPE="SUBMIT" NAME="submit" VALUE="Student">
+        <INPUT class="registerbtn" style =" margin-left:250px; width:30%" TYPE="SUBMIT" NAME="submit" VALUE="Student">
         </div>
  </FORM> 
  
